@@ -8,7 +8,7 @@
 
 <br />
 
-hi, i'm [Fitra Muhammad Anugrah](https://craftee.vercel.app/), a passionate self-taught front end website developer and i'm from indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Fitra Muhammad Anugrah](https://craftee.vercel.app/), a passionate self-taught front end website developer and i'm from indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, and code quality of the things I build.
 
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -16,7 +16,7 @@ i learned a lot from the open-source community and i love how collaboration and 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Fitra Muhammad Anugrah**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** and **programmer**
+-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** and **programmer**
 - ⚡ I like **Anime, and Game**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
 - 👨‍💻 device currently in use **Windows**
@@ -24,7 +24,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 - 🔭 I’m currently working on my project
 - 💬 ask me about anything, i am happy to help
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
