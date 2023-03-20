@@ -23,7 +23,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 - 🌱 I’m currently learning **Python, html, css, Javascript, and bash**
 - 👨‍💻 device currently in use **linux mint chinemon**
 - 📫 How to reach me **[Craftee#2020]**
-- 🔭 I’m currently working on [**Website**](https://Samunee.github.io/Website/)
+- 🔭 I’m currently working on my project [**Website Chat Realtime**]
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
