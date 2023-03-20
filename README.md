@@ -39,11 +39,6 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 **Connect With Me**
 
-<a href="https://www.tiktok.com/@termsboy_">
-  <img align="left" alt="Craftee" width="22px"
-src="cdn.discordapp.com/emojis/1084306756437549117.webp?size=160&quality=lossless" />
-</a>
-
 <a href="https://discord.gg/MsxuncgpUq">
   <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
