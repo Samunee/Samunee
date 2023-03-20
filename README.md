@@ -6,6 +6,15 @@
   <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aria2&label=Profile%20views&color=0e75b6&style=flat" alt="aria1" />
+<img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+<p align="center"><a href="https://github.com/ariafatah0711"><img src="https://profile-counter.glitch.me/{aria2}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
+<p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Fitra Muhammad Anugrah -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue"></p>
+<h1></h1>
+
+
 <br />
 
 hi, i'm [Fitra Muhammad Anugrah](https://craftee.vercel.app/), a passionate self-taught front end website developer and i'm from indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, and code quality of the things I build.
@@ -15,7 +24,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"> My name is **Fitra Muhammad Anugrah**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="12px"> My name is **Fitra Muhammad Anugrah**
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> I am a **student** and **programmer**
 - ⚡ I like **Anime, and Game**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
