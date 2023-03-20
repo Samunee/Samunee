@@ -41,13 +41,13 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 <a href="https://www.tiktok.com/@termsboy_">
   <img align="left" alt="Craftee" width="22px"
-src"https://fontawesome.com/v5/icons/tiktok" />
+src"[https://fontawesome.com/v5/icons/tiktok](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg)" />
 </a>
 <a href="https://discord.gg/MsxuncgpUq">
   <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.youtube.com/SamuneeCH">
-  <img align="left" alt="SamuneeCH" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/tiktok.svg" />
+  <img align="left" alt="SamuneeCH" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
 
