@@ -16,8 +16,8 @@ i learned a lot from the open-source community and i love how collaboration and 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="12px"> My name is **Fitra Muhammad Anugrah**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> I am a **student** and **programmer**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px"> My name is **Fitra Muhammad Anugrah**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="26px"> I am a **student** and **programmer**
 - ⚡ I like **Anime, and Game**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
 - 👨‍💻 device currently in use **Windows**
@@ -36,6 +36,8 @@ i learned a lot from the open-source community and i love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+
+**Social Media**
 
 <a href="https://www.youtube.com/@SamuneeCH">
   <img align="left" alt="SamuneeCH Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
