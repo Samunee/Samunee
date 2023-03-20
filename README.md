@@ -6,8 +6,6 @@
   <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm [Fitra Muhammad Anugrah](https://craftee.vercel.app/), a passionate self-taught front end website developer and i'm from indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -18,13 +16,13 @@ i learned a lot from the open-source community and i love how collaboration and 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Fitra Muhammad Anugrah**
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** not a programmer
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** and a programmer
 - ⚡ I like **Anime, Game, Music, and drawing**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
 - 👨‍💻 device currently in use **Windows 11**
-- 📫 How to reach me **[Craftee#2020]**
-- 🔭 I’m currently working on my project [**Website Chat Realtime**]
-- 💬 ask me about anything, i am happy to help;
+- 📫 How to reach me via discord **(Craftee#2020)**
+- 🔭 I’m currently working on my project
+- 💬 ask me about anything, i am happy to help
 
 **languages and tools:**  
 
