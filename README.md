@@ -16,7 +16,7 @@ i learned a lot from the open-source community and i love how collaboration and 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Fitra Muhammad Anugrah**
--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** and **programmer**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** and **programmer**
 - ⚡ I like **Anime, and Game**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
 - 👨‍💻 device currently in use **Windows**
