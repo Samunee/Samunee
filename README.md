@@ -10,14 +10,20 @@
 
 <br />
 
-hi, i'm [Fitra Muhammad Anugrah](https://craftee.vercel.app/), a passionate self-taught front end website developer and from indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Fitra Muhammad Anugrah](https://craftee.vercel.app/), a passionate self-taught front end website developer and i'm from indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Fitra Muhammad Anugrah**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** not a programmer
+- ⚡ I like **Anime, Game, Music, and drawing**
+- 🌱 I’m currently learning **Python, html, css, Javascript, and bash**
+- 👨‍💻 device currently in use **linux mint chinemon**
+- 📫 How to reach me **[Craftee#2020]**
+- 🔭 I’m currently working on [**Website**](https://Samunee.github.io/Website/)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
