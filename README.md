@@ -37,13 +37,17 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
 
-**Social Media**
+**Connect With Me**
 
 <a href="https://www.tiktok.com/@termsboy_">
-  <img align="left" alt="Samunee" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/tiktok.png" />
+  <img align="left" alt="Craftee" width="22px"
+src"https://fontawesome.com/v5/icons/tiktok" />
 </a>
 <a href="https://discord.gg/MsxuncgpUq">
   <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.youtube.com/SamuneeCH">
+  <img align="left" alt="SamuneeCH" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/tiktok.svg" />
 </a>
 
 
