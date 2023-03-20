@@ -17,9 +17,9 @@ i learned a lot from the open-source community and i love how collaboration and 
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Fitra Muhammad Anugrah**
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am a **student** and a programmer
-- ⚡ I like **Anime, Game, Music, and drawing**
+- ⚡ I like **Anime, and Game**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
-- 👨‍💻 device currently in use **Windows 11**
+- 👨‍💻 device currently in use **Windows**
 - 📫 How to reach me via discord **(Craftee#2020)**
 - 🔭 I’m currently working on my project
 - 💬 ask me about anything, i am happy to help
