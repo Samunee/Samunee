@@ -1,15 +1,7 @@
-### hey there!
-<a href="https://www.youtube.com/@SamuneeCH">
-  <img align="left" alt="SamuneeCH Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
-</a>
-<a href="https://discord.gg/MsxuncgpUq">
-  <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aria2&label=Profile%20views&color=0e75b6&style=flat" alt="aria1" />
-<img src="https://img.shields.io/github/followers/ariafatah0711?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
-<p align="center"><a href="https://github.com/ariafatah0711"><img src="https://profile-counter.glitch.me/{aria2}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
+<img src="https://img.shields.io/github/followers/Samunee?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+<p align="center"><a href="https://github.com/Samunee"><img src="https://profile-counter.glitch.me/{aria2}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Fitra Muhammad Anugrah -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue"></p>
 <h1></h1>
@@ -44,6 +36,13 @@ i learned a lot from the open-source community and i love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
+
+<a href="https://www.youtube.com/@SamuneeCH">
+  <img align="left" alt="SamuneeCH Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
+</a>
+<a href="https://discord.gg/MsxuncgpUq">
+  <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 
 
