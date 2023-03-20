@@ -41,7 +41,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 <a href="https://www.tiktok.com/@termsboy_">
   <img align="left" alt="Craftee" width="22px"
-src"http://www.w3.org/2000/svg" />
+src="http://www.w3.org/2000/svg" />
 </a>
 <a href="https://discord.gg/MsxuncgpUq">
   <img align="left" alt="RichCraft's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
