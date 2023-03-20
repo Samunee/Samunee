@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/followers/Samunee?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 <p align="center"><a href="https://github.com/Samunee"><img src="https://profile-counter.glitch.me/{aria2}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
 <p align="center"> <img title="Leviathan" src="https://img.shields.io/badge/Fitra Muhammad Anugrah -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Resipotori%20of%20My%20GitHub-blue"></p>
+<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Repositories%20of%20My%20GitHub-blue"></p>
 <h1></h1>
 
 
