@@ -47,10 +47,5 @@ i learned a lot from the open-source community and i love how collaboration and 
   <img align="left" alt="SamuneeCH" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<a class="link" href="https://www.tiktok.com/@termsboys_" target="_blank">
-  <i class="fas fa-link">&nbsp;</i>Tiktok
-</a>
-
-
 
 
