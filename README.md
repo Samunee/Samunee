@@ -16,13 +16,14 @@ i learned a lot from the open-source community and i love how collaboration and 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 👋 My name is **Fitra Muhammad Anugrah**
+- 👋 Hi, I'm @Samunee
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="26px"> I am a **student** and **programmer**
 - ⚡ I like **Anime, and Game**
 - 📙 I’m currently learning **HTML, CSS, JavaScript, Java, and Python**
+- 👀 I’m interested in Website Development
 - 👨‍💻 device currently in use **Windows**
 - 📫 How to reach me via discord **(Craftee#2020)**
-- 🔭 I’m currently working on my project
+- 🔭 I’m currently working on my website project
 - 💬 ask me about anything, i am happy to help
 
 **Languages and Tools:**  
