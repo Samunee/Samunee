@@ -28,7 +28,7 @@
   </a>
   &emsp;
    <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=orange">
   </a>
   
 </p>
@@ -70,7 +70,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=blue)"></a>
 </p>
 
 <br/>
