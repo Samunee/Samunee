@@ -45,7 +45,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
   </a> 
 	
 ### 👉 Databases & Cloud Hosting
