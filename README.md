@@ -79,7 +79,7 @@
 
 <p>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?%20-%23E34F26.svg?&logo=windows&logoColor=white"></a>
 </p>
 
 <br/>
