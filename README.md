@@ -5,7 +5,6 @@
 </p>
 <hr/>
 <h4 align="center">I am a web developer and minecraft server developer</h4>
-<br>
 <h4 align="center">I am currently learning programming languages like javascript, python, java, etc.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Samunee&label=Profile%20views&color=0e75b6&style=plastic" alt="Samunee" /> </p>
