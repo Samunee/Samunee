@@ -93,7 +93,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://samunee.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://discord.gg/MsxuncgpUq"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Discord"/></a>
 	<a href="mailto:fitraradeon@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Samunee"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.youtube.com/channel/SamuneeCH"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
