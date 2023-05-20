@@ -9,7 +9,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Samunee&label=Profile%20views&color=0e75b6&style=plastic" alt="Samunee" /> </p>
 
-## 🔥 Streak Stats
+## 🚀 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=algolia" alt="Samunee"  /></p>
 
 
@@ -48,24 +48,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
   </a> 
-	
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
 
- ### 👉 Software & Tools & OS
+ ### 👉 Software & Tools
  
 <p>
   &emsp;
@@ -76,7 +60,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <p>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?%20-%23E34F26.svg?&logo=windows&logoColor=white"></a>
 </p>
 
 <br/>
