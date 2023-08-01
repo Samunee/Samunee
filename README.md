@@ -31,7 +31,11 @@
    <a href="https://www.java.com" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=orange">
   </a>
-  
+  &emsp;
+   <a href="https://go.dev" target="_blank">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang%20-%2314354C.svg?logo=golang&logoColor=orange">
+  </a>
+
 </p>
 
 ### 👉 Frontend Development
