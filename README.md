@@ -51,7 +51,15 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
-  </a> 
+  </a>
+  &emsp; 
+  <a href="https://getbootstrap.com/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?logo=bootstrap&logoColor=orange">
+  </a>   
+  &emsp;
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2314354C.svg?logo=react&logoColor=orange">
+  </a>
 
  ### 👉 Software & Tools
  
