@@ -7,7 +7,6 @@
 <h4 align="center">I am a Front End Developer, Back End Developer, Community Manager, Discord Moderator and Minecraft Server Developer</h4>
 <h4 align="center">I am currently learning programming languages like javascript, python, java, golang, etc.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Samunee&label=Profile%20views&color=0e75b6&style=plastic" alt="Samunee" /> </p>
 
 ## 🚀 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=algolia" alt="Samunee"  /></p>
