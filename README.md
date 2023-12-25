@@ -82,7 +82,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Samunee/github-readme-stats"><img alt="Samunee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samunee&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false">    <img  alt="Samunee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Samunee?cardType=level&theme=algolia&preferLogin=false" />  </a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samunee&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
@@ -91,7 +91,6 @@
   </p>
 </details>
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">    <img  alt="Samunee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Samunee?cardType=level&theme=react&preferLogin=false" />  </a>
 
 
 <details>
