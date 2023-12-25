@@ -9,7 +9,7 @@
 <br>
 
 ## 🚀 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshyadav2010&theme=algolia" alt="Samunee"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samunee&theme=algolia" alt="Samunee"  /></p>
 
 
 ## 🛠️ My Skills
@@ -90,9 +90,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee&theme=algolia"/>
-
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
