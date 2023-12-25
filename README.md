@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Fitra Muhammad Anugrah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Community+Manager;Discord+Moderator;Minecraft+Server++Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Samunee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Community+Manager;Discord+Moderator;Minecraft+Server++Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Front End Developer, Back End Developer, <br> Community Manager, Discord Moderator and Minecraft Server Developer</h4>
@@ -85,8 +85,7 @@
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false">    <img  alt="Samunee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Samunee?cardType=level&theme=algolia&preferLogin=false" />  </a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samunee&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Samunee" height="192px"/>
-	  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee&layout=compact)
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee&layout=compact&theme=algolia" alt="Samunee" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -97,7 +96,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Samunee"><img alt="Samunee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samunee&custom_title=dEVANSH%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Samunee"><img alt="Samunee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samunee&custom_title=Samunee%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
