@@ -91,6 +91,8 @@
   </p>
 </details>
 
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">    <img  alt="Samunee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Samunee?cardType=level&theme=react&preferLogin=false" />  </a>
+
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
