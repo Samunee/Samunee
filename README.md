@@ -91,7 +91,7 @@
   </p>
 </details>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee&layout=compact&theme=algolia"/>
 
 
 <details>
