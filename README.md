@@ -85,7 +85,8 @@
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false">    <img  alt="Samunee's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Samunee?cardType=level&theme=algolia&preferLogin=false" />  </a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samunee&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samunee&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Samunee" height="192px"/>
+	  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samunee&layout=compact)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
