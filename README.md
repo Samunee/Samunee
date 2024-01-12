@@ -4,7 +4,7 @@
   <a href="https://github.com/Samunee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Community+Manager;Discord+Moderator;Minecraft+Server++Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Front End Developer, Back End Developer, <br> Community Manager, Discord Moderator and Minecraft Server Developer</h4>
+<h4 align="center">I am a Front End Developer, Back End Developer, <br> Community Manager, and Discord Moderator</h4>
 <h4 align="center">I am currently learning programming languages like javascript, python, java, golang, etc.</h4>
 <br>
 
