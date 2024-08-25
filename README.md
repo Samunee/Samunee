@@ -15,19 +15,6 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=orange">
-  </a>
-  &emsp;
-   <a href="https://go.dev" target="_blank">
-    <img alt="Golang" src="https://img.shields.io/badge/Golang%20-%2314354C.svg?logo=golang&logoColor=orange">
-  </a>
-
 </p>
 
 ### 👉 Frontend Development
@@ -39,10 +26,6 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?%20-%23E34F26.svg?&logo=php&logoColor=white">
   </a>
   &emsp; 
   <a href="https://getbootstrap.com/" target="_blank"> 
